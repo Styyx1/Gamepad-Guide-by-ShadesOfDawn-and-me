@@ -45,7 +45,7 @@ a. Set Cycle Shouts/Powers to Up on the D-Pad
 b. Set Cycle Consumables to Down on the D-Pad
 c. Disable Poisons
 
-[!Alt Text]https://imgur.com/141QCug
+[!Serio's Cycle Hotkeys MCM setup](https://imgur.com/141QCug)
 
 d. Set Use Consumables to Right on the D-Pad
 
