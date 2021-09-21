@@ -27,7 +27,7 @@ This guide uses three mods to manage and control the game via gamepad with the g
 2. iEquip - Acts as your HUD so you can see what is equipped quickly at a glance without referencing the quick menu or your inventory.  It also adds the ability to hotkey potions.
 3. Serio’s Cycle Hotkeys - This is the primary hotkey mod that allows you to control shouts, powers, spells, and equipment via the hotkeys introduced with TUCS.
 
-If your mod list of choice does not come with built-in support for these mods, download and install all of the mods you are missing.  That being said if you add them to your mod list you void official support from the mod list authors. You will then need to download the patched control layout for TUCS from Althro’s Animonculory.  You will find it in the pinned comments in the Controller Support channel.  Install it as a separate mod after TUCS.
+If your mod list of choice does not come with built-in support for these mods, download and install all of the mods you are missing. **That being said if you add them to your mod list you void official support from the mod list authors.** You will then need to download the patched control layout for TUCS from Althro’s Animonculory.  You will find it in the pinned comments in the Controller Support channel.  Install it as a separate mod after TUCS.
 
 Now, activate all of the mods.  You can leave them at the bottom of the load order in both the left and right panes of MO2 as nothing else should be touching the same things these are touching.
 
@@ -45,7 +45,7 @@ a. Set Cycle Shouts/Powers to Up on the D-Pad
 b. Set Cycle Consumables to Down on the D-Pad
 c. Disable Poisons
 
-
+[!Alt Text]https://imgur.com/141QCug
 
 d. Set Use Consumables to Right on the D-Pad
 
