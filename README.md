@@ -40,12 +40,13 @@ This section is going to be in addition to any instructions your mod list of cho
 1. Serio’s Cycle Hotkeys
 a. Set the mod to use Default Hotkeys
 b. Set the Hot Key Setter button to the Left D-Pad
+[Serio's Cycle Hotkeys MCM setup](https://imgur.com/141QCug)
 2. iEquip
 a. Set Cycle Shouts/Powers to Up on the D-Pad
 b. Set Cycle Consumables to Down on the D-Pad
 c. Disable Poisons
 
-[!Serio's Cycle Hotkeys MCM setup](https://imgur.com/141QCug)
+
 
 d. Set Use Consumables to Right on the D-Pad
 
