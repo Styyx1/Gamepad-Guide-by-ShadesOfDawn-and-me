@@ -17,20 +17,20 @@ Also, to those users putting this guide into action in mod lists that do not off
 Now, on with the guide.
 
 
-
 Part 1: The Mods
 
 To start, we want to make sure your control layout is untouched by anything else. Go to your Skyrim directory and look for a file called ControlMap_Custom.txt and delete it. This will ensure that nothing else will be modifying your controller configuration other than the mods we want doing so.  If you do not have this file do not be concerned.
 
 This guide uses three mods to manage and control the game via gamepad with the goal of eliminating the need for keyboard commands in normal play.  The mods are as follows:
 1. The Ultimate Control Scheme - the basis for controller compatibility.  This opens up additional hotkeys on your controller.  It does change the button layouts significantly so it will take a little to get used to.
+
 2. iEquip - Acts as your HUD so you can see what is equipped quickly at a glance without referencing the quick menu or your inventory.  It also adds the ability to hotkey potions.
+
 3. Serio’s Cycle Hotkeys - This is the primary hotkey mod that allows you to control shouts, powers, spells, and equipment via the hotkeys introduced with TUCS.
 
 If your mod list of choice does not come with built-in support for these mods, download and install all of the mods you are missing. **That being said if you add them to your mod list you void official support from the mod list authors.** You will then need to download the patched control layout for TUCS from Althro’s Animonculory.  You will find it in the pinned comments in the Controller Support channel.  Install it as a separate mod after TUCS.
 
 Now, activate all of the mods.  You can leave them at the bottom of the load order in both the left and right panes of MO2 as nothing else should be touching the same things these are touching.
-
 
 
 Part 2: The MCM
@@ -41,20 +41,20 @@ This section is going to be in addition to any instructions your mod list of cho
 a. Set the mod to use Default Hotkeys
 b. Set the Hot Key Setter button to the Left D-Pad
 [Serio's Cycle Hotkeys MCM setup](https://imgur.com/141QCug)
+
 2. iEquip
 a. Set Cycle Shouts/Powers to Up on the D-Pad
 b. Set Cycle Consumables to Down on the D-Pad
 c. Disable Poisons
-
-
-
 d. Set Use Consumables to Right on the D-Pad
+[iEquip manual setup](https://imgur.com/a/RSojkPU)
+At the top of this guide you also find an MCM setup that made this changes for you already, [Download it](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me/raw/main/iEquip_MCM.7z) and
+install it like you would with every other mod and activate it. it lets you load the settings like mentioned above
+
 
 3. SkyUI
-a.  Under Controls change Previous Column to
+a. Under Controls change Previous Column to
 b. Also under Controls, change Next Column to
-
-
 
 
 Part 3: Making it Work
@@ -81,7 +81,10 @@ It is also not recommended to change between controller and mouse and keyboard d
 
 If you want to customize the HUD display from iEquip you can do so.  The default hotkey for the activation key is K then select the appropriate option from the menu that comes up.  From there, it is a matter of experimentation and moving elements around.  While this is entirely up to personal taste, we have included a configuration file for this as well in the pinned comments of the Gamepad Support channel in Althro’s Animonculory.  Simply install it as a new mod and activate it.  Then load the preset from within the HUD Editor of iEquip.
 
+Extra step if your mod list contains a mod called Engarde.
 
+To make Engarde's dodge feature work with gamepads we need a program that mimics the WASD keys when using the left stick it can be done via Steam controller settings but i personally use [Antimicro](https://antimicro.en.softonic.com/) and the explaination of this guide will refer to antimicro as the used program.
+to make it work all you have to do is download the program from the link above, install it and run it while playing the mod list. the setup needs to be done like [this](https://imgur.com/ngnq45z)
 
 Part 4: An Example Set Up
 
@@ -125,7 +128,7 @@ Long Answer: Gamepad ++ has more features, but all of the features are enabled t
 
 Also, keep in mind, you would not be using Gamepad++ alongside this guide, you would be using it instead of this guide.
 
-5. Can I use a PS5 controller?  A: Reports say yes.  Mileage may vary.
+5. Can I use a PS5 controller?  A: I personally play with a PS5 controller.  Mileage may vary.
 
 6. The game does not recognize my controller at all!  A: Did you remember to activate the controller functionality in Settings > Gameplay?  I don’t think you did.  Please go do so and it should be fixed.
 
@@ -134,8 +137,35 @@ Also, keep in mind, you would not be using Gamepad++ alongside this guide, you w
 
 Part 6: Controller Layout
 
+XBox controller:
 
+Start --> Journal
+Back --> Wait
+LB+Back --> Quicksave
+RB+Start --> Tween Menu (Menu where you have access to inventory, map, magic, levelup menu)
+LB+RB --> Shout/Power (the order matters, hold down LB first)
+LB --> unassigned on it's own (can be used for Dual wield Parrying for example; do not use it for a function that would interrupt your combat as the key is also       needed for shouting)
+LS --> Favorites Menu (only works if you allready assigned items as your favorites in the item/magic menu)
+RS --> Switch POV (1st person view to 3rd person view and vice versa)
+A --> Activate
+B --> Sneak
+X --> Ready weapon/sheath weapon
+Y --> Jump
 
+Playstation controller
+
+Options --> Journal
+Share --> Wait
+L1+Share --> Quicksave
+R1+options --> Tween Menu (Menu where you have access to inventory, map, magic, levelup menu)
+L1+R1 --> Shout/Power (the order matters, hold down LB first)
+L1 --> unassigned on it's own (can be used for Dual wield Parrying for example; do not use it for a function that would interrupt your combat as the key is also       needed for shouting)
+LS --> Favorites Menu (only works if you allready assigned items as your favorites in the item/magic menu)
+RS --> Switch POV (1st person view to 3rd person view and vice versa)
+X --> Activate
+Circle --> Sneak
+Square --> Ready weapon/sheath weapon
+Triangle --> Jump
 
 
 
