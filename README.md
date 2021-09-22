@@ -38,23 +38,23 @@ Part 2: The MCM
 This section is going to be in addition to any instructions your mod list of choice has you set up.  Please complete all MCM instructions from your base mod list’s Read Me prior to continuing.
 
 1. Serio’s Cycle Hotkeys
-a. Set the mod to use Default Hotkeys
-b. Set the Hot Key Setter button to the Left D-Pad
+Set the mod to use Default Hotkeys
+Set the Hot Key Setter button to the Left D-Pad
 [Serio's Cycle Hotkeys MCM setup](https://imgur.com/141QCug)
 
 2. iEquip
-a. Set Cycle Shouts/Powers to Up on the D-Pad
-b. Set Cycle Consumables to Down on the D-Pad
-c. Disable Poisons
-d. Set Use Consumables to Right on the D-Pad
+Set Cycle Shouts/Powers to Up on the D-Pad
+Set Cycle Consumables to Down on the D-Pad
+Disable Poisons
+Set Use Consumables to Right on the D-Pad
 [iEquip manual setup](https://imgur.com/a/RSojkPU)
 At the top of this guide you also find an MCM setup that made this changes for you already, [Download it](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me/raw/main/iEquip_MCM.7z) and
 install it like you would with every other mod and activate it. it lets you load the settings like mentioned above
 
 
 3. SkyUI
-a. Under Controls change Previous Column to
-b. Also under Controls, change Next Column to
+Under Controls change Previous Column to
+Also under Controls, change Next Column to
 
 
 Part 3: Making it Work
