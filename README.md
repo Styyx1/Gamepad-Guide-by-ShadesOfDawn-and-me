@@ -36,14 +36,14 @@ This guide uses three mods to manage and control the game via gamepad with the g
 
 3. [Serio’s Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184?tab=files) - This is the primary hotkey mod that allows you to control shouts, powers, spells, and equipment via the hotkeys introduced with TUCS.
 
-If your mod list of choice does not come with built-in support for these mods, download and install all of the mods you are missing. **That being said if you add them to your mod list you void official support from the mod list authors.** You will then need to download the patched control layout for TUCS from Althro’s Animonculory.  You will find it in the pinned comments in the Controller Support channel.  Install it as a separate mod after TUCS.
+If your mod list of choice does not come with built-in support for these mods, download and install all of the mods you are missing. **That being said if you add them to your mod list you void official support from the mod list authors.** You will then need to download the patched control layout for TUCS from [here](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me/raw/main/The%20Ultimate%20Control%20Scheme%20-%20Recharging%20Enabled.7z). Install it as a separate mod after TUCS.
 
 Now, activate all of the mods.  You can leave them at the bottom of the load order in both the left and right panes of MO2 as nothing else should be touching the same things these are touching.
 
 
 Part 2: The MCM
 
-This section is going to be in addition to any instructions your mod list of choice has you set up.  Please complete all MCM instructions from your base mod list’s Read Me prior to continuing.
+This section is going to be in addition to any instructions your mod list of choice has you set up.  Please complete all MCM instructions **except the hotkey options, as they are made with keyboard in mind most of the times** from your base mod list’s Read Me prior to continuing.
 
 1. Serio’s Cycle Hotkeys
    
