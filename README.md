@@ -22,11 +22,12 @@ Part 1: The Mods
 To start, we want to make sure your control layout is untouched by anything else. Go to your Skyrim directory and look for a file called ControlMap_Custom.txt and delete it. This will ensure that nothing else will be modifying your controller configuration other than the mods we want doing so.  If you do not have this file do not be concerned.
 
 This guide uses three mods to manage and control the game via gamepad with the goal of eliminating the need for keyboard commands in normal play.  The mods are as follows:
-1. The Ultimate Control Scheme - the basis for controller compatibility.  This opens up additional hotkeys on your controller.  It does change the button layouts significantly so it will take a little to get used to.
 
-2. iEquip - Acts as your HUD so you can see what is equipped quickly at a glance without referencing the quick menu or your inventory.  It also adds the ability to hotkey potions.
+1. [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381?tab=files) - the basis for controller compatibility.  This opens up additional hotkeys on your controller.  It does change the button layouts significantly so it will take a little to get used to.
 
-3. Serio’s Cycle Hotkeys - This is the primary hotkey mod that allows you to control shouts, powers, spells, and equipment via the hotkeys introduced with TUCS.
+2. [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008?tab=files) - Acts as your HUD so you can see what is equipped quickly at a glance without referencing the quick menu or your inventory.  It also adds the ability to hotkey potions.
+
+3. [Serio’s Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184?tab=files) - This is the primary hotkey mod that allows you to control shouts, powers, spells, and equipment via the hotkeys introduced with TUCS.
 
 If your mod list of choice does not come with built-in support for these mods, download and install all of the mods you are missing. **That being said if you add them to your mod list you void official support from the mod list authors.** You will then need to download the patched control layout for TUCS from Althro’s Animonculory.  You will find it in the pinned comments in the Controller Support channel.  Install it as a separate mod after TUCS.
 
