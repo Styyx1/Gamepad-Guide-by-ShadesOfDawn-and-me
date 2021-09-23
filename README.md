@@ -1,25 +1,32 @@
 # Gamepad-Guide-by-ShadesOfDawn-and-me
 
-Gamepad Support
-And
-Setup Guide
+Gamepad Support and Setup Guide
+
 Version 2.0
+
 Original Version Composed by ShadesofDawn
-Maintained by Chri3i and ShadesofDawn
+
+Maintained by Chri3i(chreieiiieieeeiie on Discord) and ShadesofDawn
+
 Information Originally Compiled by Gamepad Helpers Team from Sovn’s Skyrim and Gamepad Helpers Team from Althro’s Animonculory
 
 A Forward
 
-This guide could not have been completed without hours of work put in by many people.  Both the original version on the QWEST! Discord and this updated version are the work of several individuals.  Thank you all for your hard work and valuable time in assisting with putting this together.
+This guide could not have been completed without hours of work put in by many people.
+Both the original version on the QWEST! Discord and this updated version are the work of several individuals.
+Thank you all for your hard work and valuable time in assisting with putting this together.
 
-Also, to those users putting this guide into action in mod lists that do not officially support it, please treat this as a mini mod list.  That means direct all issues to me on Discord.  I can be found in either Sovn’s Skyrim or Althro’s Animonculory.  Do not pester the creator of your mod list of choice or the creators of the mods contained within this guide as they will not be able to assist.
+Also, to those users putting this guide into action in mod lists that do not officially support it, please treat this as a mini mod list.
+That means direct all issues to us on Discord.
+We can be found in Althro’s Animonculory.
+Do not pester the creator of your mod list of choice or the creators of the mods contained within this guide as they will not be able to assist.
 
 Now, on with the guide.
 
 
 Part 1: The Mods
 
-To start, we want to make sure your control layout is untouched by anything else. Go to your Skyrim directory and look for a file called ControlMap_Custom.txt and delete it. This will ensure that nothing else will be modifying your controller configuration other than the mods we want doing so.  If you do not have this file do not be concerned.
+To start, we want to make sure your control layout is untouched by anything else. Go to your Skyrim directory and look for a file called **ControlMap_Custom.txt** and delete it. This will ensure that nothing else will be modifying your controller configuration other than the mods we want doing so.  If you do not have this file do not be concerned.
 
 This guide uses three mods to manage and control the game via gamepad with the goal of eliminating the need for keyboard commands in normal play.  The mods are as follows:
 
@@ -39,23 +46,33 @@ Part 2: The MCM
 This section is going to be in addition to any instructions your mod list of choice has you set up.  Please complete all MCM instructions from your base mod list’s Read Me prior to continuing.
 
 1. Serio’s Cycle Hotkeys
-Set the mod to use Default Hotkeys
-Set the Hot Key Setter button to the Left D-Pad
+   
+a. Set the mod to use Default Hotkeys
+
+b. Set the Hot Key Setter button to the Left D-Pad
+
 [Serio's Cycle Hotkeys MCM setup](https://imgur.com/141QCug)
 
 2. iEquip
-Set Cycle Shouts/Powers to Up on the D-Pad
-Set Cycle Consumables to Down on the D-Pad
-Disable Poisons
-Set Use Consumables to Right on the D-Pad
+
+a. Set Cycle Shouts/Powers to Up on the D-Pad
+
+b. Set Cycle Consumables to Down on the D-Pad
+
+c. Disable Poisons
+
+d. Set Use Consumables to Right on the D-Pad
+
 [iEquip manual setup](https://imgur.com/a/RSojkPU)
-At the top of this guide you also find an MCM setup that made this changes for you already, [Download it](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me/raw/main/iEquip_MCM.7z) and
-install it like you would with every other mod and activate it. it lets you load the settings like mentioned above
+
+At the top of this guide you also find an MCM setup that made this changes for you already, [Download it](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me/raw/main/iEquip_MCM.7z) and install it like you would with every other mod and activate it. it lets you load the settings like mentioned above
 
 
 3. SkyUI
-Under Controls change Previous Column to
-Also under Controls, change Next Column to
+
+Under Controls change Previous Column to <--
+
+Also under Controls, change Next Column to -->
 
 
 Part 3: Making it Work
@@ -95,14 +112,22 @@ iEquip Hotkeys
 Shouts (Up on the D-Pad) - Here I keep a small selection of combat-related shouts such as the elemental breath weapons or ethereal form.
 Consumable Cycling (Down on the D-Pad) Here are my potions by type, healing, stamina, and magika, as well as a selection of food and water.  Since Health is the most often needed at short notice, I keep it selected and only rotate to other options outside of combat.
 Use Consumable (Right on the D-Pad) Nothing to set up there, just hit it when you need to use a consumable you have selected with Down on the D-Pad.
-Serio’s Cycle Hotkeys
+**Serio’s Cycle Hotkeys**
+
 Left Bumper + X - My Melee set.  I generally only keep my primary set here.
+
 Left Bumper + A - My Ranged set.  Again, I only keep a single bow here.
+
 Left Bumper + Y - Offensive Magic.  Single Cast in the left hand on a single press, Duel Cast on a double press.  Like with the weapon sets, I generally stick to a single elemental spell here.
+
 Left Bumper + B - Healing Magic. Single Cast/Duel Cast like the offensive spell.  My most powerful or quickest to use healing spell takes up this slot.  If I am using spells to heal companions, I will slot one in as an off-hand spell only in the third cycle.
+
 Right Bumper + X - Additional Offensive Magic - Single Cast - Here I set up other spells that I may use regularly.  Direct Damage and Crowd Control spells go here.
+
 Right Bumper + A - Additional Defensive Magic - These are my buffs that are used prior to combat.  
+
 Right Bumper + Y - Combat Powers and Form Change Powers - Such as Vampire Lord or Werewolf go here so I can transform quickly as well as things that I might use only rarely such as the Dragon Form Shout or WhirlWind Sprint.
+
 Right Bumper + B - Survival/Utility Powers - This is where I put things like Call Horse, Fill Waterskins, etc.
 
 
@@ -138,34 +163,58 @@ Also, keep in mind, you would not be using Gamepad++ alongside this guide, you w
 
 Part 6: Controller Layout
 
-XBox controller:
+**XBox controller:**
 
 Start --> Journal
+
 Back --> Wait
+
 LB+Back --> Quicksave
+
 RB+Start --> Tween Menu (Menu where you have access to inventory, map, magic, levelup menu)
+
 LB+RB --> Shout/Power (the order matters, hold down LB first)
-LB --> unassigned on it's own (can be used for Dual wield Parrying for example; do not use it for a function that would interrupt your combat as the key is also       needed for shouting)
+
+LB --> unassigned on it's own (can be used for Dual wield Parrying for example; do not use it for a function that would interrupt your combat as the key is also       needed for 
+shouting)
+
 LS --> Favorites Menu (only works if you allready assigned items as your favorites in the item/magic menu)
+
 RS --> Switch POV (1st person view to 3rd person view and vice versa)
+
 A --> Activate
+
 B --> Sneak
+
 X --> Ready weapon/sheath weapon
+
 Y --> Jump
 
-Playstation controller
+**Playstation controller:**
 
 Options --> Journal
+
 Share --> Wait
+
 L1+Share --> Quicksave
+
 R1+options --> Tween Menu (Menu where you have access to inventory, map, magic, levelup menu)
+
 L1+R1 --> Shout/Power (the order matters, hold down LB first)
-L1 --> unassigned on it's own (can be used for Dual wield Parrying for example; do not use it for a function that would interrupt your combat as the key is also       needed for shouting)
+
+L1 --> unassigned on it's own (can be used for Dual wield Parrying for example; do not use it for a function that would interrupt your combat as the key is also       needed for 
+shouting)
+
 LS --> Favorites Menu (only works if you allready assigned items as your favorites in the item/magic menu)
+
 RS --> Switch POV (1st person view to 3rd person view and vice versa)
+
 X --> Activate
+
 Circle --> Sneak
+
 Square --> Ready weapon/sheath weapon
+
 Triangle --> Jump
 
 
