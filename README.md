@@ -97,7 +97,7 @@ Please also keep in mind that while it is possible to use preset keyboard hotkey
 
 It is also not recommended to change between controller and mouse and keyboard during standard play as this has been known to confuse Skyrim and cause the gamepad to stop functioning until the game is reset or in a worst-case scenario, a CTD.  If you know you are going to want to use the mouse and keyboard for something (Character Creation, for example) it is recommended to load into the game without the controller enabled, save when you are done with the mouse and keyboard, then exit the game and plugin/power on your controller and restart the game.  This is mandatory if you are using a headset plugged in through your gamepad as Skyrim will not recognize the change in audio device.
 
-If you want to customize the HUD display from iEquip you can do so.  The default hotkey for the activation key is K then select the appropriate option from the menu that comes up.  From there, it is a matter of experimentation and moving elements around.  While this is entirely up to personal taste, we have included a configuration file for this as well in the pinned comments of the Gamepad Support channel in Althro’s Animonculory.  Simply install it as a new mod and activate it.  Then load the preset from within the HUD Editor of iEquip.
+If you want to customize the HUD display from iEquip you can do so.  The default hotkey for the activation key is K then select the appropriate option from the menu that comes up.  From there, it is a matter of experimentation and moving elements around.  While this is entirely up to personal taste, we have included a configuration file for this as well on top of the page here.  Simply install it as a new mod and activate it.  Then load the preset from within the HUD Editor of iEquip.
 
 Extra step if your mod list contains a mod called Engarde.
 
@@ -234,5 +234,9 @@ Updated Part 1 with instructions to enable controller functionality in Skyrim’
 Added a FAQ based on the most common questions I’ve seen over the last 6 months in the Discord.  
 Reformatted Change Log for ease of use.
 Added Credits on the first page.
+
 v2.0
 New version of the guide.  Edited for generic use with any mod list.
+
+v2.1
+Many changes including the availability of the guide and the place where you can find us and the files needed. Links to the mod pages added
