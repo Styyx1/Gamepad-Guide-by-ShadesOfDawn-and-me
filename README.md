@@ -2,7 +2,7 @@
 
 Gamepad Support and Setup Guide
 
-Version 2.0
+Version 2.2
 
 Original Version Composed by ShadesofDawn
 
@@ -66,6 +66,8 @@ d. Set Use Consumables to Right on the D-Pad
 [iEquip manual setup](https://imgur.com/a/RSojkPU)
 
 At the top of this guide you also find an MCM setup that made this changes for you already, [Download it](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me/raw/main/iEquip_MCM.7z) and install it like you would with every other mod and activate it. it lets you load the settings like mentioned above
+
+To adjust the HUD layout you need to enter edit mode. there you can load a preset if you want (there is a custom one included). The edit mode comes with neat tooltips so it's easy to find stuff. **for reference if the key is named NP5 then it requires you to press 5 on your Numpad**
 
 
 3. SkyUI
@@ -158,7 +160,7 @@ Also, keep in mind, you would not be using Gamepad++ alongside this guide, you w
 
 6. The game does not recognize my controller at all!  A: Did you remember to activate the controller functionality in Settings > Gameplay?  I don’t think you did.  Please go do so and it should be fixed.
 
-7. My game crashes when I open the HUD editor for iEquip! A: This is likely due to a soft conflict with another mod.  A known cause of this is the Engarde! Mod.  To avoid the crash, enter the MCM menu for iEquip and turn time dilation down to zero.  You can then edit your HUD freely.  Keep in mind, that time will continue to progress and the world will not freeze so only do this in a safe location such as an inn or in your player home of choice.
+7. My game crashes when I open the HUD editor for iEquip! A: This is likely due to a soft conflict with another mod. To avoid the crash, enter the MCM menu for iEquip and turn time dilation down to zero.  You can then edit your HUD freely.  Keep in mind, that time will continue to progress and the world will not freeze so only do this in a safe location such as an inn or in your player home of choice.
 
 
 Part 6: Controller Layout
