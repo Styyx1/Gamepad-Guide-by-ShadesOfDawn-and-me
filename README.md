@@ -21,6 +21,9 @@ That means direct all issues to us on Discord.
 We can be found in Althro’s Animonculory.
 Do not pester the creator of your mod list of choice or the creators of the mods contained within this guide as they will not be able to assist.
 
+**For QWEST 3.8 all of the mods are already downloaded and installed**
+
+
 Now, on with the guide.
 
 
@@ -102,6 +105,8 @@ It is also not recommended to change between controller and mouse and keyboard d
 If you want to customize the HUD display from iEquip you can do so.  The default hotkey for the activation key is K then select the appropriate option from the menu that comes up.  From there, it is a matter of experimentation and moving elements around.  While this is entirely up to personal taste, we have included a configuration file for this as well on top of the page here.  Simply install it as a new mod and activate it.  Then load the preset from within the HUD Editor of iEquip.
 
 Extra step if your mod list contains a mod called Engarde.
+
+**This doesn't work when the modlist also has the mod 'Auto Input Switch'**
 
 To make Engarde's dodge feature work with gamepads we need a program that mimics the WASD keys when using the left stick it can be done via Steam controller settings but i personally use [Antimicro](https://antimicro.en.softonic.com/) and the explaination of this guide will refer to antimicro as the used program.
 to make it work all you have to do is download the program from the link above, install it and run it while playing the mod list. the setup needs to be done like [this](https://imgur.com/ngnq45z)
