@@ -247,3 +247,6 @@ New version of the guide.  Edited for generic use with any mod list.
 
 v2.1
 Many changes including the availability of the guide and the place where you can find us and the files needed. Links to the mod pages added
+
+v2.2
+Changed the specifics about QWEST! and included an exception for the mod 'Engarde'
