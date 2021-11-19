@@ -6,7 +6,7 @@ Version 2.2
 
 Original Version Composed by ShadesofDawn
 
-Maintained by Chri3i(chreieiiieieeeiie on Discord) and ShadesofDawn
+Maintained by Chri3i(Styyx on Discord) and ShadesofDawn
 
 Information Originally Compiled by Gamepad Helpers Team from Sovn’s Skyrim and Gamepad Helpers Team from Althro’s Animonculory
 
@@ -20,8 +20,6 @@ Also, to those users putting this guide into action in mod lists that do not off
 That means direct all issues to us on Discord.
 We can be found in Althro’s Animonculory.
 Do not pester the creator of your mod list of choice or the creators of the mods contained within this guide as they will not be able to assist.
-
-**For QWEST 3.8 all of the mods are already downloaded and installed**
 
 
 Now, on with the guide.
