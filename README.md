@@ -33,7 +33,9 @@ This guide uses three mods to manage and control the game via gamepad with the g
 
 1. [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381?tab=files) - the basis for controller compatibility.  This opens up additional hotkeys on your controller.  It does change the button layouts significantly so it will take a little to get used to.
 
-2. [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008?tab=files) - Acts as your HUD so you can see what is equipped quickly at a glance without referencing the quick menu or your inventory.  It also adds the ability to hotkey potions.
+2. [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008?tab=files) - Acts as your HUD so you can see what is equipped quickly at a glance without referencing the quick menu or your inventory. It also adds the ability to hotkey potions. 
+
+### Make sure to get the right version of it and its dependencies, depending on the list/setup you play. Version means SE or AE. SE = Skyrim 1.5.97; AE = Skyrim 1.6.xxx
 
 3. [Serio’s Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184?tab=files) - This is the primary hotkey mod that allows you to control shouts, powers, spells, and equipment via the hotkeys introduced with TUCS.
 
