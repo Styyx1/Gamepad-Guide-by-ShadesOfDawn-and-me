@@ -119,7 +119,7 @@ Given below is an example of the hotkey setup that ShadesofDawn uses on his spel
 - `Right Bumper + Y` - Combat Powers and Form Change Powers.
 - `Right Bumper + B` - Survival/Utility Powers.
 
-## FAQ and Troublshooting
+## FAQ and Troubleshooting
 
 **How do I use my shouts/tween menu/quick save?**  
 
